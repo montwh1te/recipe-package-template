@@ -7,7 +7,7 @@ with open("requirements.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="recipe_manager",
+    name="recipe_manager_montwh1te",
     version="0.0.1",
     author="montwh1te",
     author_email="eduardomatuella@gmail.com",
