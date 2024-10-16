@@ -7,7 +7,7 @@ a package that can improve your recipe and baking management
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install recipe_manager
 
 ```bash
-pip install ### colocar comando de instalacao terminal
+pip install recipe-manager-montwh1te
 ```
 
 ## Usage
