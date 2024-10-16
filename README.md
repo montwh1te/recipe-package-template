@@ -17,6 +17,7 @@ from recipe_manager.components.recipe import Recipe
 
 Recipe.add_step("Mix the ingredients.", 1)
 ```
+note: metrics library stopped working :/
 
 ## Author
 montwh1te
